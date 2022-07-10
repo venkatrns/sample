@@ -4,11 +4,7 @@
   <groupId>com.rns.app</groupId>
   <artifactId>maven-app</artifactId>
   <packaging>jar</packaging>
-<<<<<<< HEAD
-  <version>2.0.1</version>
-=======
-  <version>3.0.1</version>
->>>>>>> 225378dc2e16b8414c90acb152e3ef1765b2c0b2
+  <version>1.0.1</version>
   <name>maven-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
